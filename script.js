@@ -1,0 +1,1 @@
+alert("Proyecto formativo Venta de Muebles por página WEB");
